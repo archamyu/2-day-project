@@ -13,7 +13,7 @@
 - PHP: `8.2.4`
 
 ## Framework yang Digunakan
-- `Codeigniter 3`
+- `CodeIgniter 3`
 - `Bootstrap 4`
 
 ## Panduan Penggunaan Aplikasi
